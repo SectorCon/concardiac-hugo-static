@@ -1,0 +1,12 @@
+---
+title: "Kontakt zum Konsortium"
+description: "Wir freuen uns auf Ihre Kontaktaufnahme"
+bg_image: "images/kv.jpg"
+layout: "contact"
+draft: false
+menu:
+  main:
+    name: "Kontakt"
+    url: "/contact"
+    weight: 6
+---
